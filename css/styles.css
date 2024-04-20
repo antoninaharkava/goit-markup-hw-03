@@ -1,0 +1,179 @@
+body{
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #ffffff;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+button {
+    cursor: pointer;
+}
+
+ul, ol{
+    list-style: none;
+}
+.logo {
+    font-family: "Raleway", sans-serif;
+font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;}
+
+.logo-part {
+    font-family: "Roboto", sans-serif;
+font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #2e2f42;}
+
+.navigation{
+    font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+
+.nav-link:hover, 
+.nav-link:focus{
+    color: #404bbf;
+}
+
+.address {
+    font-style: normal;
+    font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+
+.address-link:hover,
+.address-link:focus{
+    color: #404bbf;
+}
+
+.effective-solutions-section {
+    background: #2e2f42;
+}
+
+.first-heading {
+    font-size: 56px;
+        line-height: 1.07;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #ffffff;
+}
+
+.order-service-btn {
+    font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        color: #ffffff;
+        background-color: #4D5AE5;
+        cursor: pointer;
+}
+.order-service-btn:hover,
+.order-service-btn:focus{
+    background-color: #404BBF
+}
+.content {
+  
+}
+
+
+
+.content-list-heading {
+    font-weight: 500;
+font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.content-list-paragraf {
+font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.our-team-section {
+background: #f4f4fd;
+}
+
+.our-team-heading {
+font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+
+.our-team-list {
+background-color: #ffffff;
+}
+
+.team-name{
+    font-weight: 500;
+font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+}
+
+.team-job{
+font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #434455;
+}
+
+.page-footer-title{
+background-color: #2e2f42;
+}
+
+.footer-paragraf{
+font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #f4f4fd;
+}
+
+.logo-part-footer{
+    color: #f4f4fd;
+}
+
+
+.our-portfolio-heading {
+font-size: 36px;
+line-height: 1.11;
+text-align: center;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+color: #2e2f42;
+}
+
+.list-item-heading {
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+
+.list-item-paragraf {
+line-height: 1.5;
+letter-spacing: 0.02em;
+}
